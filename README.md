@@ -1,5 +1,5 @@
 # Overview
-This small application is meant to simulate credit card transactions. As a user, you can make transactions through the credit card, and resolve payments to your credit provider. Right now, the app isn't deployed anywhere, so you would need to run the Flask backend via localhost w/ Port 8080. A demo video can be seen here.
+This small application is meant to simulate credit card transactions. As a user, you can make transactions through the credit card, and resolve payments to your credit provider. Right now, the app isn't deployed anywhere, so you would need to run the Flask backend via localhost w/ Port 8080. A demo video can be seen [here](https://youtu.be/9Ti98LRNm-4).
 
 # Tech Stack
 For the frontend, I used Next.js + ChakraUI for easy component-building and formatting
