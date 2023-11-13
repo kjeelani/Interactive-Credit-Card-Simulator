@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "creditcardsim",
+  "private_key_id": "99bc9f53da8948110611e9a46a9ed1109aa96b75",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDSxWLno5T6hlZt\nem63h+2JmA5kkdJ+5GsGp2rD+vHorfLR1z+x5w1ZE95xcThy3j1G6tj8JssGE7wz\nAMTg4yL1v28FoqQZytCnB3y9Fpyf3pva6BIGAxNnn8vBUwUbzwnQUOMFi6onW0ls\nrAVcC6lvGRvOkF8emijXl8/Xu3k2WAPZXIadUZVke8HAkJMZ+rb+B/Gmh5mw4Rqe\ncvfQv1VtQ43gEpB03y5PhlC5i/Fj996qSaNn2LcCcrE7WYFdhAL4Vz92NHmVEPNN\nO7kO4zneOfT7hmIiBxyyViRIUP1Q17N3qz4h4HOgBIKHR6dDDIkrl0LtUZBt5+eJ\nneYsJI3XAgMBAAECggEAB4xlKRmWxzNSp61H7ZyMuWEWOhJuepGD2bzbAIJqWBel\nIVAqdxy1jpHWshmVckIbHLQvEDZaQaRcTASEVVXp7xyR69HYbn09sSjkYts+W1iV\ntiaaJ3GQ9NgB7DFxqeTMAhQ1Hs8F/LUMV9WAHaNKe3DOEHBJz81ClphyK6Fw5MbI\n7nFmewkFx3CbfYoduLA4eX1TFPpvZYouFbvSgbgeyoDaD+ZLOFViPePT89BJr+NI\nRlbIkZy/AJIeO3Iy7xreFaAZf81jG3gdo2AkIHYgFAYxiy/x8wlo53Gzco9cIQnQ\n2PQFfwoPVcd8YsZ3PGQ1qkLcnBqRht161aQL5bHBcQKBgQDvSF+CztZvaSXlKGmx\nC6rnc5Ijt3tiM1ciXmeHkewcEBE/ui95AzIz7KwC+MkYLGsw2Os5Hzr+Z5bt0c0W\nMi0qzmnrwaYIOm59tW5QKTdv5QNTjx7z1rVQyKGv7jrhcbb9I/dq7pNpf3buIDHa\nxxcUEQPK6hwS91b2eangjAcQRwKBgQDhfxNROJtHcBjds6XeEweqGIOYFdINU4yb\nRtmT6v2IESMEbq+K50O0pi94840OAoiXyIGDZzKqpFs2Un+a4F0jkK8ylI55dneK\nCKY1n2my2yJ/5a5YOy52zJJQ9nMMnN+Q17xqFQ92BASRnV0x/XmzF4exPB0Q2Mif\nT8Ayw/Bt8QKBgQCP1d5sAC+QixFXfgKChXP3a1Zml+3YKupu43ayXLokaFgmCaJt\nyMkNw2/m3WvsVw8cLti+3pIUyWpFjP8OH51dBPVQ3XgTrCQs9rnX/96uKWjlervt\ncZxOcjwXSEomqLeJ1Wvt4HnGSfPQ0pOFYnXx/wRbnny/veSNhrbiHupEEwKBgQCv\nhBzCFIBwq2T/c6yAXWmS0P/kqd9Udhq0ZgJG6xqqBUSvV4QVZwrBGrVKvK+nHvu4\nwN1mLTY3sjQ45R/jqg10+FIV2aHIExjafP76L/myuHRy/pCkpnP1Dig5EorcX2J4\nuCM0ou3k2x2/RbBbj8NhTchVgMfS7BnEPuwH15FV0QKBgQClau8H5/ujEVCXRD3i\nJ1V/pAJ6J+4U5O9995LaZMRwNpfSoCR0Kp4pDIap4v/i0Kj6jPjsLKUZMWI9+3Cp\n6QfvXk6TD2w/fRkR8u24T3nuI98UOlZrBHDhaZyWoJty3Ly5u7A+4Drh5bI7U59f\nqWvSVt7iFCBM+tR16SeyI2zoRg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-m8033@creditcardsim.iam.gserviceaccount.com",
+  "client_id": "115320543765025434117",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-m8033%40creditcardsim.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

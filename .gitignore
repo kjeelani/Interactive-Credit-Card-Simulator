@@ -1,0 +1,28 @@
+Backend/__pycache__
+Backend/env
+Backend/.env
+
+# dependencies
+Frontend/creditcardsim/node_modules
+Frontend/creditcardsim/.pnp
+Frontend/creditcardsim/.pnp.js
+
+# testing
+Frontend/creditcardsim/coverage
+
+# next.js
+Frontend/creditcardsim/.next/
+Frontend/creditcardsim/out/
+
+# production
+Frontend/creditcardsim/build
+
+# misc
+Frontend/creditcardsim/.DS_Store
+Frontend/creditcardsim/*.pem
+
+# debug
+Frontend/creditcardsim/npm-debug.log*
+Frontend/creditcardsim/yarn-debug.log*
+Frontend/creditcardsim/yarn-error.log*
+Frontend/creditcardsim/.pnpm-debug.log*

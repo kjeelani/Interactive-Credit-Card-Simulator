@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  padding: 1px;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+.center_wrap {
+  margin-top: 5vh;
+  white-space: pre-wrap;
+}
